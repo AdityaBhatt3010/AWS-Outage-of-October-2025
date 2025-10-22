@@ -7,6 +7,8 @@ From Snapchat to Fortnite, Duolingo to Alexa — the domino effect was instant. 
 
 Even the cloud has bad days, it seems. ☁️💭
 
+![AWS](https://github.com/user-attachments/assets/8ef946d0-6f1a-496d-a459-3e374ebb20a3) <br/>
+
 ---
 
 ### ⚙️ The Breakdown — What Actually Happened
